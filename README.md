@@ -1,4 +1,4 @@
-# ECE1508 Deep Learning Project: PointNet2 Architecture Optimization
+# 3D Point Cloud Classification: PointNet2 Architecture Optimization
 
 ## Project Overview
 
@@ -193,8 +193,8 @@ Adding one Set Abstraction layer significantly improved performance:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/KaiwenYangUT/ECE1508_DL_Project.git
-cd ECE1508_DL_Project
+git clone https://github.com/Alex-Xi-Chen/3D-Point-Cloud-Classification-with-Deep-Learning-PointNet-Optimization.git
+cd 3D-Point-Cloud-Classification-with-Deep-Learning-PointNet-Optimization
 ```
 
 2. **Create virtual environment**
@@ -331,7 +331,7 @@ Output saved to respective `visualization_results/` directories
 ## Project Structure
 
 ```
-ECE1508_DL_Project/
+3D-Point-Cloud-Classification-with-Deep-Learning-PointNet-Optimization/
 ├── MSG/                                  # Multi-Scale Grouping experiments
 │   ├── models/
 │   │   ├── pointnet2_cls_msg.py         # MSG model implementation
@@ -450,13 +450,6 @@ For 3D point cloud classification with PointNet2 MSG:
 This project builds upon:
 - [yanx27/Pointnet_Pointnet2_pytorch](https://github.com/yanx27/Pointnet_Pointnet2_pytorch)
 
-## Course Information
-
-**Course**: ECE1508 - Deep Learning  
-**Institution**: University of Toronto  
-**Term**: Fall 2025  
-**Date**: December 12, 2025
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -465,8 +458,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Original PointNet and PointNet2 authors for their groundbreaking work
 - The PyTorch PointNet implementation community
-- ECE1508 course instructors and TAs
 
 ---
 
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/KaiwenYangUT/ECE1508_DL_Project).
+For questions or issues, please open an issue on the [GitHub repository](https://github.com/Alex-Xi-Chen/3D-Point-Cloud-Classification-with-Deep-Learning-PointNet-Optimization).

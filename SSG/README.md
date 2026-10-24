@@ -1,4 +1,4 @@
-# ECE1508 Deep Learning Project: PointNet2 Architecture Exploration
+# PointNet2 SSG Architecture Exploration
 
 This repository contains a comprehensive study of PointNet2 SSG (Single-Scale Grouping) architecture variations, exploring the effects of network depth, width, and residual connections on 3D point cloud classification performance.
 

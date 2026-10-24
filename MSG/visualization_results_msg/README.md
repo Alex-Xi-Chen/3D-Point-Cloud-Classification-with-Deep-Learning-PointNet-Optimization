@@ -107,4 +107,4 @@ This script reads from `pointnet2_msg_2.csv` and generates all charts and the su
 
 ---
 
-*Generated on December 12, 2025 as part of ECE1508 Deep Learning Project*
+*Generated on December 12, 2025.*
